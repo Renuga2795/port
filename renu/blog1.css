@@ -1,0 +1,139 @@
+*
+{
+    margin: 0px;
+}
+nav1
+{
+    margin: 20px;
+    float: inline-end;
+    /* margin-right: 240px; */
+    padding: 20px;
+    
+    
+}
+ ul li {
+    /* margin-top: 40px; */
+    display: inline;
+    padding-left: 30px;
+    
+    
+ }
+ ul li a{
+    text-decoration: none;
+    color:black;
+ }
+
+ 
+ nav{
+    float: left;
+} 
+nav .para 
+{
+    margin: 20px;
+    
+    color:black;
+    
+}
+
+
+
+.main{
+    background-color:white;
+    position: fixed;
+    width: 100%;
+    z-index: 500;
+}
+
+.relax h1{
+ padding-top: 50px;
+ letter-spacing:2px;
+ font-size: 50px;
+}
+.relax p{
+ padding-top:20px;
+ font-size:15px;
+}
+.relax{
+    position: relative;
+    top:150px;
+    border:1px solid rgb(154, 154, 154);
+    width: 900px;
+    padding:80px;
+    margin-left:220px;
+}
+.relax h2{
+    letter-spacing:1px;
+    word-spacing: 5px;
+    font-size:35px;
+    padding-top: 20px;
+}
+
+.heart{
+  background-color: transparent;
+  border: none;
+  font-size: 20px;
+  color:#ccc;
+  cursor: pointer;
+  transition: color 0.3s ease; 
+}
+.heart.liked{
+  color: red;
+}
+#green{
+    
+    padding-left:600px;
+    position: relative;
+    bottom: 30px;
+}
+#t{
+    padding-left:200px;
+    position: relative;
+    bottom: 30px;
+
+}
+.first, .second, .third{
+    border: 1px solid rgb(121, 121, 121);
+    width:290px;
+    
+}
+
+.contac{
+    margin-left: 150px;
+}
+ .lst{
+    margin-left: 90px;
+ }
+footer{
+    margin-left:150px;
+    margin-top: 60px;
+}
+form input{
+    background-color: rgb(61, 186, 186);
+    border:2px solid black;
+    width: 450px;
+    height:30px;
+    margin-top: 20px;
+}
+form{
+    margin-top: 60px;
+}
+form label{
+    font-size:20px ;
+}
+.btn3{
+    width:100px; 
+    background-color: black;
+    color: white;
+    margin-left: 350px;
+}
+.btn3:hover{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
+
+
+
+
+
+

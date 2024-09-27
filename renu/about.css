@@ -1,0 +1,106 @@
+*
+{
+    margin: 0px;
+}
+nav1
+{
+    margin: 20px;
+    float: inline-end;
+    /* margin-right: 240px; */
+    padding: 20px;
+    
+    
+}
+nav1 ul li{
+    display: inline;
+    padding-left: 30px;
+}
+
+nav1 ul li a{
+    text-decoration: none;
+    color:black;
+
+}
+
+nav{
+    float: left;
+} 
+nav .para 
+{
+    margin: 20px;
+    
+    color:black;
+    
+}
+
+.main{
+    background-color:white;
+    position: fixed;
+    width: 100%;
+    z-index: 500;
+    
+}
+.btns ul a li{
+    display: inline;
+    
+
+}
+.btns ul a{
+    text-decoration: none;
+    color:white;
+    width: 30px;
+    height: 30px;
+background-color: black;
+padding: 5px;
+}
+.btns ul a:hover{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+
+}
+.contac{
+    margin-left: 150px;
+}
+.lst{
+    margin-left: 90px;
+}
+footer{
+    margin-left:150px;
+    margin-top: 60px;
+}
+form input{
+    background-color: rgb(61, 186, 186);
+    border:2px solid black;
+    width: 450px;
+    height:30px;
+    margin-top: 20px;
+}
+form{
+    margin-top: 60px;
+}
+form label{
+    font-size:20px ;
+}
+.btn3{
+    width:100px; 
+    background-color: black;
+    color: white;
+    margin-left: 350px;
+    margin-top: 20px;
+}
+.btn3:hover{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
+.lst ul li {
+    display: inline;
+    padding:10px;
+       
+}
+.lst ul li a{
+    color: black;
+    padding-left: 10px;
+    
+}
